@@ -25,11 +25,3 @@ The **[MCRLdata pipeline](https://mcrldata.pnnl.gov/)** hosts and streams datase
 📚 If you want other <ins>examples of coding or data analysis</ins> relevant to the sandbox, check out our tutorials **here**
 
 🤨 If you <ins>want to request a new capability</ins> or have any <ins>questions</ins> about the MCRLdata sandbox, please open a Github issue! 
-
-
-
-## Project links
-
-PR notes: https://docs.google.com/document/d/1tXO-z3eQjqIRmyJPHZh_fS9__I04BJXTfCVrjMFlHZE/edit?tab=t.0
-
-Progress tracking: https://docs.google.com/document/d/1QdxCAVCirGWI2zWxxsvcHiCyO30AkpuWzAlInB3Ff7U/edit?tab=t.0
