@@ -6,9 +6,8 @@ The MCRLdata Sandbox is a Github Organization. Github is an open-source platform
 
 1. data_prep - tools for cleaning up data to different quality control levels which are used by other repos
 2. data_retrieval - on-demand data access
-3. data_analysis - 
-4. data_sandbox - a collection of tools to help users get more out of MCRLdata resources
-5. [tutorials](https://github.com/MCRLdata-Sandbox/tutorials) - step-by-step instructions from getting started to advanced analyses
+3. data_sandbox - a collection of tools to help users get more out of MCRLdata resources
+4. [tutorials](https://github.com/MCRLdata-Sandbox/tutorials) - step-by-step instructions from getting started to advanced analyses
 
 If you are not sure where to start, I suggest starting with [tutorials](https://github.com/MCRLdata-Sandbox/tutorials): 
  - If you have never interacted with Github before, start with 
