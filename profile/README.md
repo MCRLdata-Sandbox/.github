@@ -7,7 +7,7 @@ The **[MCRLdata pipeline](https://mcrldata.pnnl.gov/)** hosts and streams datase
   2) **Custom visualizations and modular tools** supporting cross-domain research via [data_sandbox](https://github.com/MCRLdata-Sandbox/data_sandbox)
   4) **Training guides** to bring new users up to speed via [tutorials](https://github.com/MCRLdata-Sandbox/tutorials)
 
-<img src="https://github.com/peterregier/mcrl_data_sandbox/blob/main/figures/internal/mcrldata_sandbox_domain.jpg" alt="" width="500" height="300">
+<img src="https://github.com/MCRLdata-Sandbox/.github/blob/main/sandbox_domain.jpg" alt="" width="500" height="300">
 
 ## Choose your adventure
 
