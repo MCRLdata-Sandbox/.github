@@ -15,7 +15,7 @@ The **[MCRLdata pipeline](https://mcrldata.pnnl.gov/)** hosts and streams datase
 
 ⛴️ If you want a <ins>simple summary of seasonal Sequim Bay conditions</ins> off the dock, check out the **[Sequim Bay seasonal summary](https://github.com/peterregier/mcrl_data_sandbox/blob/main/scripts/3_sequim_bay_seasonality.md)**
 
-💾 If you want to <ins>download MCRLdata datasets</ins> currently available on the sandbox, please visit **data_retrieval**
+💾 If you want to <ins>download MCRLdata datasets</ins> currently available on the sandbox, please visit **[start here](https://github.com/MCRLdata-Sandbox/data_prep/blob/main/data/ready_to_use/readme_please.md)**
 
 🖥️ If you want to <ins>pull data programmatically into R</ins>, please see the **Accessing MCRLdata in R** tutorial
 
