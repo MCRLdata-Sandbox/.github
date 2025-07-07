@@ -9,7 +9,4 @@ The MCRLdata Sandbox is a Github Organization. Github is an open-source platform
 3. [data_sandbox]() - a growing set of tools to help users get the most out of MCRLdata resources
 4. [tutorials](https://github.com/MCRLdata-Sandbox/tutorials) - step-by-step instructions from getting started to advanced analyses
 
-If you are not sure where to start, I suggest starting with [tutorials](https://github.com/MCRLdata-Sandbox/tutorials): 
- - If you have never interacted with Github before, start with 
-
-I code in R using RStudio. If you are interested in learning about coding in R, check out the quick [R intro script](https://github.com/MCRLdata-Sandbox/tutorials/blob/main/scripts/0_R_basics.R). 
+If you are not sure where to start, I suggest starting with [tutorials](https://github.com/MCRLdata-Sandbox/tutorials)
