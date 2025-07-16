@@ -17,9 +17,11 @@ The **[MCRLdata pipeline](https://mcrldata.pnnl.gov/)** hosts and streams datase
 
 💾 If you want to <ins>download MCRLdata datasets</ins> currently available on the sandbox, please visit **[start here](https://github.com/MCRLdata-Sandbox/data_prep/blob/main/data/outputs/readme_please.md)**
 
-🖥️ If you want to <ins>pull data programmatically into R</ins>, please see the **Accessing MCRLdata in R** tutorial
+🖥️ If you want to <ins>pull existing L1 data programmatically into R</ins>, please see the **[Accessing MCRLdata in R](https://github.com/MCRLdata-Sandbox/tutorials/blob/main/scripts/1_L1_data_basics.R)** tutorial
 
-🛠️ If you want to explore existing tools for visualizing and analyzing data, please visit **data_sandbox**
+🖥️ If you want <ins>an example R script to pull data from AWS S3<ins>, check out **[S3 retrievals](https://github.com/MCRLdata-Sandbox/data_retrieval/blob/main/scripts/250716_S3_retrieval_script.R)**
+
+🛠️ If you want to explore existing tools for visualizing and analyzing data, please visit **[data_sandbox](https://github.com/MCRLdata-Sandbox/data_sandbox)**
 
 📚 If you want to explore  <ins>tutorials for R coding or data analysis</ins> relevant to the sandbox, check out our **[tutorials](https://github.com/MCRLdata-Sandbox/tutorials/tree/main/scripts)**
 
